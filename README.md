@@ -4,11 +4,11 @@
 
 Modern personal portfolio website showcasing professional experience, education, skills, and certifications.
 
-## 🌟 Overview
+## Overview
 
 This is a responsive personal portfolio website built with clean HTML and CSS. The portfolio showcases my professional journey, including my educational background, technical skills, certifications, and career highlights.
 
-## 📋 Features
+## Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
 - **Modern UI**: Clean and professional design with gradient accents and smooth animations
@@ -20,7 +20,7 @@ This is a responsive personal portfolio website built with clean HTML and CSS. T
   - Certifications
   - Contact Information
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -28,7 +28,7 @@ This is a responsive personal portfolio website built with clean HTML and CSS. T
 - CSS Grid & Flexbox
 - CSS Animations
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 samith-portfolio-v2/
@@ -38,7 +38,7 @@ samith-portfolio-v2/
 └── README.md          # Project documentation
 ```
 
-## 🎨 Design Features
+## Design Features
 
 - **Color Scheme**: Purple gradient theme (#667eea to #764ba2)
 - **Typography**: Segoe UI font family for clean readability
@@ -46,13 +46,13 @@ samith-portfolio-v2/
 - **Animations**: Smooth fade-in effects and hover transitions
 - **Accessibility**: Semantic HTML and proper ARIA labels
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Desktop**: Full layout with multi-column grids
 - **Tablet** (≤768px): Adjusted navigation and single-column layouts
 - **Mobile** (≤480px): Optimized spacing and stacked layouts
 
-## 🚀 Getting Started
+## Getting Started
 
 ### View Live Site
 
@@ -77,7 +77,7 @@ open index.html
 
 Or simply double-click the `index.html` file to view it in your default browser.
 
-## 📝 Content Sections
+## Content Sections
 
 ### About
 Brief introduction highlighting my dedication to technology and continuous learning.
@@ -104,25 +104,25 @@ Links to professional profiles:
 - LinkedIn: [linkedin.com/in/samith-shivakumar-98901430a](https://www.linkedin.com/in/samith-shivakumar-98901430a/)
 - GitHub: [github.com/Sam29W](https://github.com/Sam29W)
 
-## 🔄 Future Enhancements
+## Future Enhancements
 
-- [ ] Add JavaScript for interactive features
-- [ ] Implement project showcase section
-- [ ] Add blog section
-- [ ] Include downloadable resume
-- [ ] Add contact form functionality
-- [ ] Implement dark mode toggle
-- [ ] Add more animations and transitions
+- Add JavaScript for interactive features
+- Implement project showcase section
+- Add blog section
+- Include downloadable resume
+- Add contact form functionality
+- Implement dark mode toggle
+- Add more animations and transitions
 
-## 📄 License
+## License
 
 This project is open source and available for personal and educational use.
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork this repository and customize it for your own portfolio. If you have suggestions for improvements, please open an issue or submit a pull request.
 
-## 📧 Contact
+## Contact
 
 For any inquiries or collaboration opportunities, feel free to reach out:
 
@@ -131,6 +131,6 @@ For any inquiries or collaboration opportunities, feel free to reach out:
 
 ---
 
-**Built with ❤️ by Samith Shivakumar**
+**Built by Samith Shivakumar**
 
 © 2025 Samith Shivakumar. All rights reserved.
